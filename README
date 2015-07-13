@@ -1,0 +1,17 @@
+Introducing C-synth - the realtime command line keyboard synthesizer.
+To install simply type ...
+
+make
+sudo make install
+
+C-synth offers a wide variety of chords. Major, minor, and several 7th
+chords as well ! To run csynth, simply type "csynth".
+
+WARNING: Csynth is in beta mode, and might not be stable on some systems.
+Right now csynth takes over your keyboard completely. If you encounter
+probelms so be prepared to run "xset r rate 300 23" if for some reason
+your keyboard does not revert to normal rate. 
+
+
+
+
